@@ -5,7 +5,7 @@ This library offers basic arithmetic operations (addition, subtraction, multipli
 
 How To Run The App
 
-#Install the Visual Studio 2019
+# Install the Visual Studio 2019
 #Create a folder on desktop to the clone repository
 #Get the code by git clone this repos: https://github.com/abitj/BasicArithmeticOperations.git 
 #Open ArithmeticLibrary.sln in Visual Studio 2019 to build and run the BasicArithmeticOperations app.
